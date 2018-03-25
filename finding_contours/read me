@@ -1,0 +1,3 @@
+1st detect object using canny edge detection
+2nd find contours.
+then draw.
