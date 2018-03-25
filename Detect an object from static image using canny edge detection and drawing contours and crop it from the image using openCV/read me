@@ -1,0 +1,4 @@
+1st detect object using canny edge detection
+2nd draw contours.
+then crop objects.
+finally save it .jpg or .png file.
